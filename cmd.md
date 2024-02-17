@@ -44,4 +44,8 @@ git log --oneline
 ```sh
 git checkout master
 ```
+8. Показывает текущие изменения
+```sh
+git diff
+```
 
